@@ -17,8 +17,4 @@ public class loadScene : MonoBehaviour
 
     }
 
-    public void teste()
-    {
-        Debug.Log("teste");
-    }
 }
